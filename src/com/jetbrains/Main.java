@@ -9,7 +9,7 @@ public class Main {
       System.out.println(c.toString());
       continue;
     }
-    if (true) System.out.println("false");
+    if (true) System.out.println("false true");
     return;
   }
 }
