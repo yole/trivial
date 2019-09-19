@@ -8,5 +8,6 @@ public class Main {
     for (String c : args) {
       System.out.println(c);
     }
+      System.out.println("false true");
   }
 }
