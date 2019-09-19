@@ -6,7 +6,7 @@ package com.jetbrains;
 public class Main {
   public static void main(String[] args) {
     for (String c : args) {
-      System.out.println(c);
+      System.out.println(c.toString());
       continue;
     }
     return;
