@@ -9,6 +9,7 @@ public class Main {
       System.out.println(c.toString());
       continue;
     }
+    if (true) System.out.println("true");
     return;
   }
 }
